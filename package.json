@@ -2,7 +2,7 @@
   "name": "pranav-dwivedi-portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://pronzzz.github.io/portfolio",
+  "homepage": "https://pronzzz.github.io/pranavdwivedi.dev",
   "dependencies": {
     "@google/genai": "^0.1.0",
     "lucide-react": "^0.263.1",
