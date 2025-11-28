@@ -1,11 +1,39 @@
-<div align="center">
+# Pranav Dwivedi - Portfolio
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Personal portfolio website built with React, Tailwind CSS, and Google Gemini API.
 
-  <h1>Built with AI Studio</h2>
+## 🚀 Quick Start
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+1.  **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+2.  **Run locally**:
+    ```bash
+    npm start
+    ```
+    The app will open at [http://localhost:3000](http://localhost:3000).
 
-</div>
+## 🤖 AI Configuration
+
+To enable the Chatbot:
+1.  Create a `.env` file in the root directory.
+2.  Add your API key:
+    ```
+    REACT_APP_API_KEY=your_google_gemini_api_key
+    ```
+
+## 🌍 Deployment (GitHub Pages)
+
+1.  **Update homepage**:
+    In `package.json`, change the `"homepage"` field to your URL:
+    ```json
+    "homepage": "https://pronzzz.github.io/your-repo-name"
+    ```
+
+2.  **Deploy**:
+    ```bash
+    npm run deploy
+    ```
+    This script builds the app and pushes it to the `gh-pages` branch.
