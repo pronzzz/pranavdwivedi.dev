@@ -1,4 +1,4 @@
-import { Github, Linkedin, Mail } from 'lucide-react';
+import { Camera, Github, Linkedin, Mail } from 'lucide-react';
 
 export default function Footer() {
     return (
@@ -33,6 +33,14 @@ export default function Footer() {
                         className="p-3 bg-gray-100 rounded-full hover:bg-accent hover:text-white transition-all"
                     >
                         <Github className="w-6 h-6" />
+                    </a>
+                    <a
+                        href="https://navzfolio.vercel.app/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="p-3 bg-gray-100 rounded-full hover:bg-accent hover:text-white transition-all"
+                    >
+                        <Camera className="w-6 h-6" />
                     </a>
                 </div>
             </div>

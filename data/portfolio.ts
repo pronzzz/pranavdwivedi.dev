@@ -52,38 +52,31 @@ export const EXPERIENCE = [
 
 export const PROJECTS = [
     {
+        title: "DeepSteer-Vis",
+        category: "Deep Learning",
+        description: "A visualization tool for deep steering behaviors in autonomous agents, built with Python and React.",
+        link: "https://github.com/pronzzz/deepsteer-vis",
+        image: "/projects/deepsteer.png",
+    },
+    {
         title: "Weather Prediction",
         category: "Deep Learning",
         description: "Built and deployed a weather prediction model using PyTorch and Vision Transformers. Implemented GradCAM for explainability.",
         link: "https://github.com/pronzzz/weather-prediction",
-        image: null, // Will use placeholder or generate later
-    },
-    {
-        title: "Robotic Manipulator",
-        category: "Robotics",
-        description: "Developed robotic arm control using Python with inverse kinematics. Simulated motion and visualized results using Matplotlib.",
-        link: "https://github.com/pronzzz",
-        image: null,
-    },
-    {
-        title: "Diabetes Prediction",
-        category: "Machine Learning",
-        description: "Applied SVM, Decision Trees, and Random Forest on medical datasets. Conducted feature engineering and performance evaluation.",
-        link: "https://github.com/pronzzz",
-        image: null,
+        image: "/projects/weather-prediction.png",
     },
     {
         title: "Fingerprint Classification",
         category: "Computer Vision",
         description: "Built a biometric classifier with TensorFlow (CNNs). Optimized models through augmentation and hyperparameter tuning.",
         link: "https://github.com/pronzzz",
-        image: null,
+        image: "/projects/fingerprint.png",
     },
     {
         title: "Super Mario RL",
         category: "Reinforcement Learning",
         description: "RL agent trained with PPO to beat Super Mario levels, built using Python and PyTorch.",
         link: "https://github.com/pronzzz",
-        image: null,
+        image: "/projects/super-mario.png",
     },
 ];
