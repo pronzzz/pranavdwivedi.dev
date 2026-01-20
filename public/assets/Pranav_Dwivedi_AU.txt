@@ -1,0 +1,46 @@
+Pranav Dwivedi Kingston, ACT, Australia Phone: +61 0493509331 | Email: pranavdofficial@gmail.com LinkedIn: www.linkedin.com/in/pranav-dwivedi-05b4b921b | GitHub: github.com/pronzzz
+
+Professional Summary
+IT Graduate with a Bachelor of Information Technology (Robotics & AI major) from the University of Canberra. Skilled in Python, cloud technologies, and data analysis with hands-on project experience in machine learning, automation, and system design. Experienced in customer-facing and technical support roles at JB Hi-Fi, with a strong foundation in troubleshooting, systems management, and process optimization. Actively pursuing AWS Cloud Practitioner and ITIL certifications, and seeking entry-level roles in IT support, cloud, or data in Australia.
+
+Technical Skills
+	•	Languages & Tools: Python, Java, SQL, Bash, R, HTML/CSS, JavaScript, MATLAB, C# 
+	•	Frameworks & Libraries: TensorFlow, Keras, PyTorch, OpenCV, Scikit-learn, Pandas, NumPy 
+	•	Concepts: Machine Learning, Data Analysis, Cloud Computing, Computer Vision, Predictive Modeling 
+	•	DevOps & Tools: Git, GitHub, Docker, Jupyter, VS Code, Google Colab, Agile 
+	•	Systems & IT Operations: POS Administration, Inventory Databases, IT Troubleshooting, Process Optimization, Cybersecurity Awareness
+
+Projects
+Weather Prediction using Deep Learning (NeuralSky) - Built and deployed a weather prediction model using PyTorch and Vision Transformers. - Implemented GradCAM for explainability and model bias mitigation.
+Robotic Manipulator Control - Developed robotic arm control using Python with inverse kinematics and transformation matrices. - Simulated motion and visualized results using Matplotlib.
+Diabetes Prediction using ML Models - Applied SVM, Decision Trees, and Random Forest on medical dataset. - Conducted feature engineering, EDA, and performance evaluation (precision, recall, F1-score).
+Fingerprint Classification (CNNs) - Built a biometric classifier with TensorFlow. - Optimized models through augmentation and hyperparameter tuning.
+
+Professional Experience
+JB Hi-Fi Australia – Canberra, ACT (Sep 2023 – Present) Progressed through multiple operations and technical roles, developing strong experience in systems administration, data accuracy, troubleshooting, and customer support. Collaborated with management and IT teams to enhance workflows, ensure compliance, and maintain system performance across retail operations.
+Merchandise Coordinator (Oct 2025 – Present) - Coordinate storewide digital and in-store merchandising systems, ensuring compliance with JB Hi-Fi policies and data integrity across pricing and inventory databases. - Liaise with IT and operations teams to maintain system functionality, update promotional databases, and resolve technical issues. - Lead and mentor staff on system use, data updates, and loss prevention protocols. - Analyze product data to identify slow movers and optimize digital space allocation.
+Counter Specialist (Jul 2025 – Sep 2025) - Managed point-of-sale (POS) and backend transaction systems, training new staff in digital transaction processes. - Handled escalations, refunds, and order fulfillment using integrated software platforms. - Collaborated with IT support for troubleshooting terminal or software-related issues. - Ensured compliance with JB Hi-Fi operational and cybersecurity standards.
+Retail Team Member (Jun 2025 – Jul 2025) - Supported in-store IT systems, payment devices, and order management platforms. - Provided customer-focused troubleshooting for hardware and tech product inquiries. - Ensured compliance with telco and digital service partner procedures.
+Merchandise Team Member (Feb 2024 – Jun 2025) - Executed digital merchandising processes, ensuring data accuracy within stock and pricing systems. - Assisted with in-store networked devices, scanners, and system-linked security components. - Delivered technical support for online orders, click & collect, and catalog updates. - Collaborated across sales and operations to optimize product visibility and system consistency.
+Peak Trade Team Member (Sep 2023 – Feb 2024) - Provided high-level technical customer support for IT, gaming, and consumer electronics. - Managed digital order fulfillment and online-to-store integration systems. - Supported back-of-house systems for stock receipt, pick-pack-dispatch, and sales data accuracy.
+IKEA, Canberra – SSFA Staff (Sep 2022 – Oct 2023) - Resolved customer issues quickly and professionally in a high-volume retail environment. - Collaborated with cross-functional teams, reinforcing Agile teamwork skills.
+Pinnacle People, Canberra – Customer Service Staff (Jan 2023 – Jun 2023) - Provided support for event systems and logistics, ensuring smooth technical operations.
+Retail Pharmacy, Lucknow – Pharmacy Assistant (2019 – 2022) - Assisted with database and stock management systems. - Delivered accurate product information and support in a regulated environment.
+
+Education
+University of Canberra, Australia Bachelor of Information Technology, Major: Robotics & AI — Graduated May 2025 GPA: 4.6/7.0
+Senior Secondary & High School, India Graduated with Higher Distinctions, 2021
+
+Certifications
+	•	Cybersecurity Fundamentals – La Trobe University (2023) 
+	•	Business Basics Workshop – University of Canberra (2022) 
+	•	(In Progress: AWS Cloud Practitioner & ITIL Foundation)
+
+Volunteer Experience
+Helping ACT – Volunteer - Managed logistics and provided technical support during community events. - Developed adaptability and communication skills under pressure.
+
+Languages
+	•	English – Fluent 
+	•	Hindi – Native 
+	•	Bengali – Fluent 
+	•	Japanese – Elementary
