@@ -17,8 +17,11 @@ const handjet = Handjet({
 });
 
 export const metadata: Metadata = {
-  title: "Pranav Dwivedi | Portfolio",
+  title: "Pranav Dwivedi",
   description: "IT Graduate specializing in Robotics, AI, and Cloud Technologies.",
+  icons: {
+    icon: "/icon.png",
+  },
 };
 
 export default function RootLayout({

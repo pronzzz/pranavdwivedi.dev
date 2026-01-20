@@ -3,6 +3,7 @@
 import { PROJECTS } from '@/data/portfolio';
 import { motion } from 'framer-motion';
 import { ArrowUpRight } from 'lucide-react';
+import Image from 'next/image';
 
 export default function Work() {
     return (
@@ -18,7 +19,7 @@ export default function Work() {
                     <span className="text-gray-400 mb-2 md:mb-4 text-lg">({PROJECTS.length})</span>
                 </motion.div>
 
-                <div className="grid grid-cols-1 gap-12 md:gap-20">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-x-8 gap-y-16 mt-12">
                     {PROJECTS.map((project, index) => (
                         <motion.a
                             key={index}
@@ -29,29 +30,30 @@ export default function Work() {
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true }}
                             transition={{ delay: index * 0.1 }}
-                            className="group block space-y-6"
+                            className="group block space-y-5"
                         >
-                            <div className="relative aspect-video md:aspect-[2/1] bg-gray-200 rounded-3xl overflow-hidden shadow-sm hover:shadow-2xl transition-all duration-500">
-                                <div className="absolute inset-0 bg-gray-300 group-hover:bg-gray-400 transition-colors flex items-center justify-center text-gray-500">
-                                    {/* Placeholder for now */}
-                                    <span className="text-sm font-medium uppercase tracking-wider">Project Preview</span>
-                                </div>
-                                {/* 
-                  <Image src={project.image} alt={project.title} fill className="object-cover group-hover:scale-105 transition-transform duration-700" />
-                */}
-                                <div className="absolute top-6 right-6 p-4 bg-white rounded-full opacity-0 group-hover:opacity-100 transition-all duration-300 translate-y-4 group-hover:translate-y-0 shadow-lg">
-                                    <ArrowUpRight className="w-6 h-6" />
-                                </div>
+                            <div className="relative aspect-[4/3] bg-gray-200 rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500">
+                                {project.image && (
+                                    <Image
+                                        src={project.image}
+                                        alt={project.title}
+                                        fill
+                                        className="object-cover group-hover:scale-105 transition-transform duration-700"
+                                    />
+                                )}
+                                <div className="absolute inset-0 bg-black/0 group-hover:bg-black/5 transition-colors duration-300" />
                             </div>
 
-                            <div className="flex justify-between items-start">
-                                <div>
-                                    <h3 className="text-3xl font-semibold mb-2 group-hover:text-accent transition-colors">{project.title}</h3>
-                                    <p className="text-gray-500 text-lg">{project.description}</p>
+                            <div className="space-y-2">
+                                <div className="flex items-center gap-1">
+                                    <h3 className="text-2xl font-bold tracking-tight group-hover:text-accent transition-colors">
+                                        {project.title}
+                                    </h3>
+                                    <ArrowUpRight className="w-5 h-5 opacity-70" />
                                 </div>
-                                <span className="px-4 py-2 border border-gray-200 rounded-full text-sm font-medium text-gray-500">
-                                    {project.category}
-                                </span>
+                                <p className="text-gray-500 line-clamp-2 leading-relaxed">
+                                    {project.description}
+                                </p>
                             </div>
                         </motion.a>
                     ))}
